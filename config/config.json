@@ -1,0 +1,7 @@
+{
+    "username": "aiman",
+    "password": "password",
+    "database": "todo_app",
+    "host": "localhost",
+    "dialect": "mssql"
+}
